@@ -1,4 +1,3 @@
-```markdown
 # Pizza Sales Analysis Project with SQL & Power-BI
 
 ## Overview
@@ -61,5 +60,3 @@ To run this project locally, you will need:
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or additional features, please feel free to open an issue or submit a pull request.
-
-```
