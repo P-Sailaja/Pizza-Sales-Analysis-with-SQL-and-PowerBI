@@ -1,0 +1,5 @@
+relationship 95c1f772-8b2b-4d9f-8143-da409a0d4471
+	joinOnDateBehavior: datePartOnly
+	fromColumn: pizza_sales.order_date
+	toColumn: LocalDateTable_4398ef1b-db2b-4946-a5a3-39a006f691e1.Date
+
