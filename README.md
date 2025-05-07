@@ -27,8 +27,9 @@ The dataset used in this project is a CSV file containing the following columns:
 - **Power BI Dashboard**: A comprehensive dashboard was created in Power BI to visualize the findings. The dashboard includes:
   - Sales trends over time
   - Top-selling pizza types
-  - Customer demographics
-  - Geographic sales distribution
+  - Busiest days
+  - Best/Worst sellers
+  - Revenue patterns
 
 ## Key Insights
 
