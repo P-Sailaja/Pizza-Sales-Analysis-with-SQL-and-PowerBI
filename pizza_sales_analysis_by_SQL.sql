@@ -70,7 +70,7 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Quantity DESC
 
--- Query 13. Top 5 Pizzas by Quantity
+-- Query 13. Bottom 5 Pizzas by Quantity
 SELECT TOP 5 pizza_name, SUM(quantity) as Total_Quantity 
 FROM pizza_sales
 GROUP BY pizza_name
@@ -82,7 +82,7 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY Total_Orders DESC
 
--- Query 14. Top 5 Pizzas by Total Orders
+-- Query 14. Bottom 5 Pizzas by Total Orders
 SELECT TOP 5 pizza_name, COUNT(DISTINCT order_id) as Total_Orders
 FROM pizza_sales
 GROUP BY pizza_name
