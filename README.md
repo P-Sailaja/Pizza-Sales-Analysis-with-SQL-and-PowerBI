@@ -24,6 +24,18 @@ The dataset used in this project is a CSV file containing the following columns:
 ## Project Components
 
 - **SQL Analysis**: SQL queries were used to clean, aggregate, and analyze the data. Key metrics such as total sales, average order value, and sales trends over time were calculated.
+  - Total Revenue
+  - Average Order Value
+  - Total Pizzas sold
+  - Total Orders
+  - Average Pizzas per Order
+  - Daily Trend for Total Orders
+  - Monthly Trend for Total Orders
+  - Percentage of Sales by Pizza Category
+  - Percentage of Sales by Pizza Size
+  - Top/Bottom 5 Pizzas by Revenue
+  - Top/Bottom 5 Pizzas by Quantity
+  - Top/Bottom 5 Pizzas by Total Orders
 - **Power BI Dashboard**: A comprehensive dashboard was created in Power BI to visualize the findings. The dashboard includes:
   - Sales trends over time
   - Top-selling pizza types
