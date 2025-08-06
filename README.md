@@ -4,6 +4,8 @@
 
 This project analyzes pizza sales data to uncover insights into sales performance, customer preferences, and operational efficiency. By leveraging SQL for data manipulation and Power BI for visualization, this analysis aims to provide actionable insights that can enhance sales strategies and improve customer satisfaction.
 <img width="1426" height="792" alt="pizzasales" src="https://github.com/user-attachments/assets/bf386e2c-3127-4fe4-88fb-0a13a633b39d" />
+<img width="578" height="314" alt="image" src="https://github.com/user-attachments/assets/ea63a559-5827-4be8-9bd4-2244eb07c932" />
+
 
 ## Dataset
 
